@@ -31,8 +31,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, rel
 
 ## Sobre
 
-Este projeto foi desenvolvido como parte de um estudo sobre astronomia e desenvolvimento web. Foi criado por [Seu Nome] como uma forma de explorar a combinação de tecnologias modernas para criar uma experiência de usuário envolvente e educativa.
+Este projeto foi desenvolvido como parte de um estudo sobre astronomia e desenvolvimento web. Foi criado por Joseph Kawe como uma forma de explorar a combinação de tecnologias modernas para criar uma experiência de usuário envolvente e educativa.
 
 ---
-
-Sinta-se à vontade para personalizar este README de acordo com as necessidades do seu projeto e adicionar mais detalhes, conforme necessário.
